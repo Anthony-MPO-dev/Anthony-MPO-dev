@@ -1,81 +1,83 @@
-![Apresentação Front-End Anthony](https://github.com/Anthony-MPO-dev/Tools-and-things/blob/main/gif_Anthony_developer.gif)
-  <h1 align="center">
-    Oi Tudo bem? Eu me chamo 
-    <a href="https://www.linkedin.com/in/anthony-muniz-a0b098219/">Anthony Muniz</a> 
-  </h1>
-  <h3 align="center">FullStack Developer, Iniciante em Ciência de Dados e Machine Learning com foco em Séries Temporais</h3>
+<h1 align="center">
+  Oi, eu sou <a href="https://www.linkedin.com/in/anthony-mpo-dev/">Anthony Muniz</a> 👋
+</h1>
 
-<br clear="both">
+<h3 align="center">
+  Backend Developer | RPA Specialist | Bacharel em Ciência da Computação
+</h3>
 
-###
+<br>
 
-<b  align="left">
-🌱 Atualmente, estou imerso na análise de dados epidemiológicos, explorando o vasto campo da Machine Learning. Minha jornada de aprendizado envolve o uso de Python, especialmente com bibliotecas poderosas como scikit-learn, pandas e matplotlib. Estou focado em compreender e aplicar modelos como regressão linear, ARIMA para séries temporais, e estou me preparando para mergulhar nas intricadas redes neurais, incluindo LSTM e GRU. Esta jornada é alimentada pela curiosidade constante e pelo desejo de aprimorar a compreensão dos padrões em dados epidemiológicos, contribuindo assim para a análise e previsão mais eficazes. 👨‍💻✨ 
-</b>
+<p align="center">
+  <em>"Transformando dados complexos em soluções eficientes."</em>
+</p>
 
-###
+<p align="center">
+  <a href="https://www.linkedin.com/in/anthony-mpo-dev/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:anthonymuniz12@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
 
-<br clear="both">
+---
+
+### 👨‍💻 Sobre Mim
+
+Sou um desenvolvedor focado em **Backend** e **Automação de Processos (RPA)**, com sólida base acadêmica formada pela **UFMT** (Ciência da Computação) e **IFRO**.
+
+Atualmente, atuo no setor financeiro desenvolvendo soluções robustas para automação e processamento de dados. Tenho experiência prática na criação de plataformas computacionais para análise de dados sensíveis (como meu projeto de TCC focado em dados epidemiológicos de Tuberculose) e participação em Hackathons (NASA Space Apps, HACKMT).
+
+### 🔒 Cadê os commits? (Disclaimer)
+
+> **Nota:** A maior parte do meu trabalho atual (na **Audax Capital FIDC** e projetos freelance) reside em repositórios **privados** corporativos devido a acordos de confidencialidade (NDA).
+>
+> Embora meu gráfico de contribuições públicas possa parecer calmo, estou diariamente:
+> * 🏗️ Arquitetando microsserviços e APIs.
+> * 🤖 Criando robôs de automação (RPA).
+> * 📊 Manipulando grandes volumes de dados.
+
+---
+
+### 🛠️ Arsenal Tecnológico
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=Anthony-MPO-dev" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Anthony-MPO-dev" height="150" alt="languages graph"  />
+
+| **Linguagens** | **Backend & Dados** | **Frontend & Outros** |
+| :---: | :---: | :---: |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="typescript"/> | <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="35" /> <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="35" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git"/> |
+
 </div>
 
-###
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="62" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="50" width="62" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" width="62" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="62" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="62" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="62" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" width="62" alt="linux logo"  />
-  <img src="/assets/GitHub.png" height="50" width="50" alt="github">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" width="62" alt="git logo"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anthony-MPO-dev&show_icons=true&count_private=true&theme=dracula&hide_border=true&bg_color=0d1117" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anthony-MPO-dev&layout=compact&langs_count=6&theme=dracula&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
 </div>
 
-###
-
-<b align="left">
-  - 📫 Como me contactar:
-</b>
+<br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/anthony-mpo-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:anthonymuniz12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anthony-mpo-dev&theme=dracula&hide_border=true&background=0d1117" alt="streak stats" />
 </div>
 
-###
-
-<br clear="both">
-
 <div align="center">
+  
+  <br>
   
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Anthony-MPO-dev/Anthony-MPO-dev/blob/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/Anthony-MPO-dev/Anthony-MPO-dev/blob/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://github.com/Anthony-MPO-dev/Anthony-MPO-dev/blob/output/github-contribution-grid-snake.svg" />
   </picture>
-  
 </div>
 
-###
+---
 
 <div align="center">
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=anthony-mpo-dev&" alt="anthony-mpo-dev" /></p>
+  <small>Feito com ❤️ por Anthony Muniz</small>
 </div>
-
-<div align="left">
-  <img align="center" height="230" src="https://i.pinimg.com/originals/95/84/eb/9584ebc40ddacb7a0f18c9c86259ae18.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
-</div>
-
-###
