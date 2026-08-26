@@ -27,11 +27,11 @@
 
 Sou um Engenheiro de Software e Analista de Dados & IA, com sólida base acadêmica formada pela **UFMT** (Ciência da Computação) e **IFRO**.
 
-Atualmente, atuo na **Kartado** e lidero projetos pela minha consultoria **Insight AI & Automation**, focando no desenvolvimento de integrações, automações avançadas e orquestração de agentes de Inteligência Artificial. Tenho experiência robusta na criação de arquiteturas backend escaláveis orientadas a eventos e na manipulação de grandes volumes de dados (desde o meu TCC com séries temporais epidemiológicas até fluxos assíncronos complexos no setor financeiro).
+Atualmente, lidero projetos através da minha empresa, a **Insight AI & Automation**, prestando serviços focados no desenvolvimento de integrações, automações avançadas e orquestração de agentes de Inteligência Artificial. Tenho experiência robusta na criação de arquiteturas backend escaláveis orientadas a eventos e na manipulação de grandes volumes de dados (desde séries temporais epidemiológicas até fluxos assíncronos complexos no setor financeiro).
 
 ### 🔒 Cadê os commits? (Disclaimer)
 
-> **Nota:** A maior parte do meu trabalho atual e recente reside em repositórios **privados** corporativos devido a acordos de confidencialidade (NDA).
+> **Nota:** A maior parte do meu trabalho recente e atual reside em repositórios **privados** (projetos corporativos e de consultoria B2B) devido a acordos de confidencialidade (NDA).
 >
 > Embora meu gráfico de contribuições públicas possa parecer calmo, estou diariamente:
 > * 🧠 Orquestrando agentes de IA e LLMs (LangChain, Claude, Gemini).
