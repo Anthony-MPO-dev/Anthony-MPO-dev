@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Backend Developer | RPA Specialist | Bacharel em Ciência da Computação
+  Software Engineer & AI Analyst | Python | FastAPI | LangChain | RabbitMQ | RPA & Machine Learning
 </h3>
 
 <br>
