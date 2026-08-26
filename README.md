@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  <em>"Transformando dados complexos em soluções eficientes."</em>
+  <em>"Transformando dados complexos em soluções eficientes com Engenharia de Software e IA."</em>
 </p>
 
 <p align="center">
@@ -25,18 +25,18 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou um desenvolvedor focado em **Backend** e **Automação de Processos (RPA)**, com sólida base acadêmica formada pela **UFMT** (Ciência da Computação) e **IFRO**.
+Sou um Engenheiro de Software e Analista de Dados & IA, com sólida base acadêmica formada pela **UFMT** (Ciência da Computação) e **IFRO**.
 
-Atualmente, atuo no setor financeiro desenvolvendo soluções robustas para automação e processamento de dados. Tenho experiência prática na criação de plataformas computacionais para análise de dados sensíveis (como meu projeto de TCC focado em dados epidemiológicos de Tuberculose) e participação em Hackathons (NASA Space Apps, HACKMT).
+Atualmente, atuo na **Kartado** e lidero projetos pela minha consultoria **Insight AI & Automation**, focando no desenvolvimento de integrações, automações avançadas e orquestração de agentes de Inteligência Artificial. Tenho experiência robusta na criação de arquiteturas backend escaláveis orientadas a eventos e na manipulação de grandes volumes de dados (desde o meu TCC com séries temporais epidemiológicas até fluxos assíncronos complexos no setor financeiro).
 
 ### 🔒 Cadê os commits? (Disclaimer)
 
-> **Nota:** A maior parte do meu trabalho atual (na **Audax Capital FIDC** e projetos freelance) reside em repositórios **privados** corporativos devido a acordos de confidencialidade (NDA).
+> **Nota:** A maior parte do meu trabalho atual e recente reside em repositórios **privados** corporativos devido a acordos de confidencialidade (NDA).
 >
 > Embora meu gráfico de contribuições públicas possa parecer calmo, estou diariamente:
-> * 🏗️ Arquitetando microsserviços e APIs.
-> * 🤖 Criando robôs de automação (RPA).
-> * 📊 Manipulando grandes volumes de dados.
+> * 🧠 Orquestrando agentes de IA e LLMs (LangChain, Claude, Gemini).
+> * 🏗️ Arquitetando microsserviços assíncronos e orientados a eventos (FastAPI, RabbitMQ, Celery).
+> * 🤖 Construindo automações de processos (RPA e n8n) e pipelines de dados.
 
 ---
 
@@ -44,9 +44,9 @@ Atualmente, atuo no setor financeiro desenvolvendo soluções robustas para auto
 
 <div align="center">
 
-| **Linguagens** | **Backend & Dados** | **Frontend & Outros** |
+| **Linguagens** | **Backend & Arquitetura** | **Dados & IA** |
 | :---: | :---: | :---: |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="typescript"/> | <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="35" /> <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="35" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git"/> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="typescript"/> | <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi" height="35" /> <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" height="35" /> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" height="35" /> | <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="35" /> <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="35" /> <img src="https://img.shields.io/badge/LangChain-FFFFFF?style=flat-square&logo=langchain&logoColor=black" height="35" /> |
 
 </div>
 
@@ -66,9 +66,7 @@ Atualmente, atuo no setor financeiro desenvolvendo soluções robustas para auto
 </div>
 
 <div align="center">
-  
   <br>
-  
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Anthony-MPO-dev/Anthony-MPO-dev/blob/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/Anthony-MPO-dev/Anthony-MPO-dev/blob/output/github-contribution-grid-snake.svg" />
