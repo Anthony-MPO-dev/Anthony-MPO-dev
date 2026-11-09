@@ -1,81 +1,39 @@
-<h1 align="center">
-  Oi, eu sou <a href="https://www.linkedin.com/in/anthony-mpo-dev/">Anthony Muniz</a> 👋
-</h1>
+# Anthony Muniz
 
-<h3 align="center">
-  Software Engineer & AI Analyst | Python | FastAPI | LangChain | RabbitMQ | RPA & Machine Learning
-</h3>
+**AI & Backend Engineer.** I make LLM agents work with real customers, and I measure it.
 
-<br>
+Most AI agents look great in a demo and fall apart with real customers. I'm the engineer who finds out why and fixes it, with numbers to prove the fix worked.
 
-<p align="center">
-  <em>"Transformando dados complexos em soluções eficientes com Engenharia de Software e IA."</em>
-</p>
+I'm open to remote backend and AI engineering roles with US and European teams. I also take on small freelance projects through my company, Insight AI & Automation.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/anthony-mpo-dev/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:anthonymuniz12@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</p>
+[anthonymuniz.dev](https://anthonymuniz.dev) | [LinkedIn](https://www.linkedin.com/in/anthony-mpo-dev) | [anthonympodev@gmail.com](mailto:anthonympodev@gmail.com)
 
----
+## Work
 
-### 👨‍💻 Sobre Mim
+- **AI support agent for a B2B SaaS** (2026). It answers customers on WhatsApp, web chat and email. I shipped about 30 releases in 4 weeks, and replies got 3x faster. Python, LLMs, RAG, n8n, HubSpot.
+- **Credit analysis pipeline** (2024 to 2026). I rebuilt a credit fund's manual credit analysis as Python services with queues and workers. FastAPI, RabbitMQ, Celery, Redis.
+- **LogStream** (side project). My first Go project. A sidecar agent streams logs over gRPC to a live dashboard, and healthmon blocks new requests to an external API once its error rate crosses a threshold. Go, gRPC, WebSocket, React.
+- **RAG side projects** (2026). A PDF notes app and a resume generator on ChromaDB, plus Kai, my personal copilot, with embeddings and cosine similarity in NumPy. FastAPI, ChromaDB, Gemini embeddings, Celery.
+- **Tuberculosis surveillance research** (2023 to 2025). My undergrad thesis, on a FAPEMAT research fellowship. Scrapers for Brazil's public health database feed a dashboard and a forecasting study. Python, Selenium, Pandas, Parquet.
 
-Sou um Engenheiro de Software e Analista de Dados & IA, com sólida base acadêmica formada pela **UFMT** (Ciência da Computação) e **IFRO**.
+## Freelance
 
-Atualmente, lidero projetos através da minha empresa, a **Insight AI & Automation**, prestando serviços focados no desenvolvimento de integrações, automações avançadas e orquestração de agentes de Inteligência Artificial. Tenho experiência robusta na criação de arquiteturas backend escaláveis orientadas a eventos e na manipulação de grandes volumes de dados (desde séries temporais epidemiológicas até fluxos assíncronos complexos no setor financeiro).
+Through Insight AI & Automation, I automate the manual work in small businesses. Most projects are one of two things: an n8n workflow that moves data between HubSpot, Google Sheets, Gmail and WhatsApp, or an AI chatbot that answers from your own docs and hands off to a human. Fixed scope, fixed price, async.
 
-### 🔒 Cadê os commits? (Disclaimer)
+## Where's the code?
 
-> **Nota:** A maior parte do meu trabalho recente e atual reside em repositórios **privados** (projetos corporativos e de consultoria B2B) devido a acordos de confidencialidade (NDA).
->
-> Embora meu gráfico de contribuições públicas possa parecer calmo, estou diariamente:
-> * 🧠 Orquestrando agentes de IA e LLMs (LangChain, Claude, Gemini).
-> * 🏗️ Arquitetando microsserviços assíncronos e orientados a eventos (FastAPI, RabbitMQ, Celery).
-> * 🤖 Construindo automações de processos (RPA e n8n) e pipelines de dados.
+Most of my work lives in private repositories, client and company code under NDA, so my public graph looks quiet. The code of my site is public: [portfolio](https://github.com/Anthony-MPO-dev/portfolio).
 
----
+## Support
 
-### 🛠️ Arsenal Tecnológico
+If something here helped you, you can support it with a Pix (Brazil only).
 
-<div align="center">
+Pix key: `07fea1e9-e489-4ccd-8b7f-828cc4eb4b32`
 
-| **Linguagens** | **Backend & Arquitetura** | **Dados & IA** |
-| :---: | :---: | :---: |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="typescript"/> | <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi" height="35" /> <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" height="35" /> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" height="35" /> | <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="35" /> <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="35" /> <img src="https://img.shields.io/badge/LangChain-FFFFFF?style=flat-square&logo=langchain&logoColor=black" height="35" /> |
+<img src="assets/pix-qr.svg" width="180" alt="Pix QR code for the key above">
 
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anthony-MPO-dev&show_icons=true&count_private=true&theme=dracula&hide_border=true&bg_color=0d1117" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anthony-MPO-dev&layout=compact&langs_count=6&theme=dracula&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anthony-mpo-dev&theme=dracula&hide_border=true&background=0d1117" alt="streak stats" />
-</div>
-
-<div align="center">
-  <br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Anthony-MPO-dev/Anthony-MPO-dev/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Anthony-MPO-dev/Anthony-MPO-dev/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://github.com/Anthony-MPO-dev/Anthony-MPO-dev/blob/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
----
-
-<div align="center">
-  <small>Feito com ❤️ por Anthony Muniz</small>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Anthony-MPO-dev/Anthony-MPO-dev/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Anthony-MPO-dev/Anthony-MPO-dev/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="My contribution graph, eaten by a snake" src="https://github.com/Anthony-MPO-dev/Anthony-MPO-dev/blob/output/github-contribution-grid-snake.svg" />
+</picture>
